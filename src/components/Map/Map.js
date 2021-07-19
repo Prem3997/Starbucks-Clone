@@ -26,7 +26,7 @@ const options = {
 }
 
 function Map() {
-    const REACT_APP_GOOGLE_MAPS_API_KEY = "AIzaSyCHM6j71Gev1k-We6c8zzL2f7YtXt5aJNY"
+    const REACT_APP_GOOGLE_MAPS_API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
     const [selectedMapData, setSelectedMapData] = useState(null)
     const mapRef = useRef()
     const onMapLoad = useCallback((map) => {
