@@ -1,0 +1,20 @@
+.headerSecondary {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 70px;
+}
+
+.headerSecondary > h2 {
+  text-transform: uppercase;
+  font-weight: 700 !important;
+  letter-spacing: 0.1em !important;
+  font-size: 1rem !important;
+}
+
+.headerSecondary > a {
+    color: #008248;
+    border-color: transparent;
+    font-weight: 700;
+}

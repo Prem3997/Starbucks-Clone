@@ -1,0 +1,13 @@
+.rec.rec-arrow:disabled {
+  visibility: hidden;
+}
+.rec.rec-carousel-wrapper .rec-carousel button {
+  color: green;
+  background-color: white;
+  margin: 0 10px;
+}
+.rec.rec-carousel-wrapper .rec-carousel button:hover {
+  background: #1e3932;
+  color: #fff;
+  transition: all 1s;
+}

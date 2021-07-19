@@ -1,0 +1,61 @@
+.menuHeader {
+  margin-top: 77px;
+  background-color: #f7f7f7;
+  border: 1px solid #edebe9;
+  position: fixed;
+  width: 100%;
+  padding-left: 131px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #dbd9d7;
+  z-index: 2;
+}
+
+.menuHeader__rewardsPage {
+  margin-top: 75px;
+  background-color: rgb(30, 57, 50);
+  border: 1px solid rgb(30, 57, 50);
+  position: fixed;
+  width: 100%;
+  padding-left: 131px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  z-index: 2;
+}
+
+.menuHeader__links {
+  display: flex;
+  gap: 25px;
+}
+
+.menuHeader__Rewardslinks{
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+}
+
+.menuHeader__links > a {
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 600;
+  font-size: 13px;
+  padding-bottom: 5px;
+}
+
+.menuHeader__link--active {
+  border-bottom: 1px solid black;
+}
+
+@media (max-width: 768px) {
+  .menuHeader {
+    position: inherit;
+    display: none;
+  }
+}
+
+@media (max-width: 425px) {
+  .menuHeader {
+    display: none;
+  }
+}

@@ -1,0 +1,8 @@
+.logo {
+    margin-right: 20px;
+  }
+  
+  .logo > img {
+    object-fit: contain;
+    height: 50px;
+  }

@@ -1,0 +1,19 @@
+.featuredScreen__heading{
+    margin-top: 165px;
+}
+.featuredScreen__discover {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+.featuredScreen__featured {
+  margin-top: 40px;
+}
+
+@media (max-width: 768px) {
+  .featuredScreen__discover {
+    flex-direction: column;
+  }
+}

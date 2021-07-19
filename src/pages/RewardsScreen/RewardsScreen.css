@@ -1,0 +1,310 @@
+.rewardsScreen {
+  margin-top: 120px;
+}
+.rewardsScreen__container {
+  display: flex;
+  flex-direction: column;
+}
+.rewardsScreen__subContainer {
+  text-align: center;
+  padding: 30px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.rewardsScreen__subContainer > h2 {
+  padding-top: 1.6rem !important;
+  font-size: 2.4rem !important;
+  font-weight: 600;
+}
+
+.rewardsScreen__subContainer > p {
+  margin-left: 25%;
+  padding-top: 1rem !important;
+  font-weight: 600;
+  width: 50%;
+}
+
+.rewardsScreen__multiRowContainer {
+  display: flex;
+  flex-direction: row;
+  padding-top: 48px;
+  margin: 0;
+  gap: 30px;
+}
+
+.rewardsScreen__rowFlexContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.rewardsScreen__imageContainer {
+  max-width: 128px;
+  margin: 0 auto;
+  padding-bottom: 2.4rem !important;
+  flex-shrink: 0 !important;
+  text-align: center !important;
+}
+
+.rewardsScreen__cardContent {
+  min-width: calc(100%-128px);
+  text-align: center !important;
+}
+
+.rewardsScreen__cardContent > h2 {
+  font-weight: 700 !important;
+  font-size: 1.2rem;
+}
+
+.rewardsScreen__cardContent > p {
+  padding-top: 1.6rem !important;
+  margin: 0;
+  text-align: center !important;
+  font-weight: 600;
+}
+
+.rewardsScreen__cardContent > p > p > a {
+  color: #1e3932;
+  text-decoration: underline;
+}
+
+.rewardsScreen__cardContent > p > p > a:hover {
+  text-decoration: none;
+}
+
+.rewardsScreen__subContainer:nth-child(3) {
+  background-color: #f3f1e7 !important ;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.grid-item-featured {
+  display: flex;
+  gap: 20px;
+}
+
+.grid-item-featured__Left {
+  padding: 20px;
+}
+.grid-item-featured__Right {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 420px;
+  text-align: left;
+}
+
+.rewardsScreen__cardContent > button {
+  margin-top: 10px;
+  color: #00653e !important;
+  display: inline-block;
+  font-family: inherit;
+  border-style: solid;
+  border-color: #00653e;
+  border-width: 1px;
+  border-radius: 50px;
+  padding: 7px 16px;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  outline: none;
+  background: none;
+}
+
+.rewardsScreen__cardContent > button:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.rewardForm {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.1), 0 4px 5px 0 rgba(0, 0, 0, 0.06),
+    0 2px 4px 0 rgba(0, 0, 0, 0.07);
+  border-radius: 12px;
+  max-width: 700px;
+  height: 400px;
+  margin-bottom: 20px;
+  padding: 30px;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-left: 20%;
+}
+
+.rewardForm__Container {
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.rewardForm__Container > h2,
+.rewardForm__Container > p,
+.rewardForm__form > p {
+  padding-top: 0.5rem !important;
+  font-weight: 600 !important;
+  padding-bottom: 1rem !important;
+}
+.rewardForm__form > p > p > a {
+  color: #1e3932;
+  text-decoration: underline;
+}
+
+.rewardForm__form > p > p > a:hover {
+  text-decoration: none;
+}
+.rewardForm__inputContainer {
+  position: relative;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.rewardForm__input {
+  width: 95%;
+}
+
+.rewardForm__error {
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: smaller;
+}
+
+.rewardForm__error > .MuiSvgIcon-root {
+  color: #e75b52;
+}
+
+.rewardForm__reportIcon {
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: translateY(100%);
+}
+.rewardForm__form > button {
+  display: inline-block;
+  font-family: inherit;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  border-radius: 50px;
+  padding: 7px 16px;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  outline: none;
+  background: none;
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 14px;
+}
+
+.rewardForm__form > button:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 1024px) {
+  .rewardForm {
+    margin-right: 30px;
+  }
+}
+@media (max-width: 768px) {
+  .rewardsScreen__subContainer {
+    padding-left: 20px;
+    padding-right: 20px;
+    gap: 20px;
+  }
+  .rewardsScreen__subContainer > h2 {
+    font-size: 1.8rem !important;
+    line-height: 1.385;
+  }
+  .rewardsScreen__subContainer > p {
+    margin-left: 16.66667%;
+    width: 66.66667%;
+  }
+  .rewardsScreen__multiRowContainer {
+    flex-direction: row;
+    margin: 0 5vw;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+  .grid-item {
+    text-align: center;
+  }
+
+  .grid-item-featured {
+    display: flex;
+    flex-direction: column;
+  }
+  .grid-item-featured__Right {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 426px) {
+  .rewardsScreen__subContainer > h2 {
+    font-size: 1.4rem;
+    font-weight: 400;
+  }
+  .rewardsScreen__subContainer > p {
+    width: 100%;
+    margin-left: 0;
+  }
+  .rewardsScreen__multiRowContainer {
+    display: flex;
+    flex-direction: column;
+    padding-top: 28px;
+    margin: 0;
+  }
+  .rewardsScreen__rowFlexContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  .rewardsScreen__imageContainer {
+    padding-bottom: 1rem !important;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto;
+    margin-top: 10px;
+  }
+  .grid-item {
+    border: none;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  .rewardForm {
+    box-shadow: none;
+    height: 500px;
+    margin-bottom: 0px;
+    padding: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .rewardForm__Container {
+    padding: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
