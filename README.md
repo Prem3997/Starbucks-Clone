@@ -50,46 +50,34 @@ Demo: [Link](https://starbucks-clone-cd780.web.app/)
 ![HomePage4](https://user-images.githubusercontent.com/37274588/126140397-092a5311-06ab-4117-ae0f-7ed2dad63841.JPG)
 
 - Sign Up Page
-
 ![SignUp](https://user-images.githubusercontent.com/37274588/126140681-a7654b10-ba35-4e7e-9f18-e8a6e588dd68.JPG)
 
 - Login Page
-
 ![Login](https://user-images.githubusercontent.com/37274588/126140706-e8f4bf1a-65e3-40b1-8b4c-e6e29f5b555e.JPG)
 
 - Menu Page
 ![Menu](https://user-images.githubusercontent.com/37274588/126140734-a0cc5508-5c9f-4a73-8604-076b34067d06.JPG)
-
 ![Menu2](https://user-images.githubusercontent.com/37274588/126140752-648c468c-3e60-4d07-8aad-9aa06f7607d9.JPG)
 
 - Featured Page
 ![Featured](https://user-images.githubusercontent.com/37274588/126140788-d2056bc0-fac0-484d-9635-e3f76b6d3367.JPG)
-
 ![Featured2](https://user-images.githubusercontent.com/37274588/126140799-b352aa69-0355-494f-ba56-62c726001628.JPG)
 
 - Rewards Page
 ![Rewards](https://user-images.githubusercontent.com/37274588/126140840-dbb8e003-4fa7-4f8a-94ca-0b300d85cd33.JPG)
-
 ![Rewards2](https://user-images.githubusercontent.com/37274588/126140843-79ab35d2-3287-41b3-b276-0b56548a259b.JPG)
-
 ![Rewards3](https://user-images.githubusercontent.com/37274588/126140845-210cf1f1-c08f-498b-bf80-1697c2fbded5.JPG)
-
 ![TabList](https://user-images.githubusercontent.com/37274588/126141004-d774b6e3-2685-4c79-b614-8ae6b81d9a70.JPG)
-
 ![Rewards4](https://user-images.githubusercontent.com/37274588/126140847-c519f17d-b451-40c0-88f6-d0808b6cd4d2.JPG)
-
 ![Rewards5](https://user-images.githubusercontent.com/37274588/126140848-0fe5b5dd-57df-4d09-9164-6cb8e85c2dba.JPG)
 
 - Today's Spl Page
 ![TodaySpl](https://user-images.githubusercontent.com/37274588/126140904-581bad24-bd0e-40d2-9e1a-3914323cc668.JPG)
-
 ![TodaySpl2](https://user-images.githubusercontent.com/37274588/126140909-362ced34-609a-4a6a-814f-3dc2283860d1.JPG)
-
 ![TodaySpl3](https://user-images.githubusercontent.com/37274588/126140911-8440df99-a867-489e-9456-6d349ff2902d.JPG)
 
 - Gift Cards Page
 ![GiftCards](https://user-images.githubusercontent.com/37274588/126141076-54fee5b5-0b2b-4b3d-853a-ce55e8f46890.JPG)
-
 ![GiftCards2](https://user-images.githubusercontent.com/37274588/126141082-43560136-953d-4774-8a74-c30d781dc024.JPG)
 
 - Footer Component
@@ -97,7 +85,6 @@ Demo: [Link](https://starbucks-clone-cd780.web.app/)
 
 - Map Component
 ![MapsComponent](https://user-images.githubusercontent.com/37274588/126141207-dde22099-d1aa-422a-8620-68b315373e32.JPG)
-
 ![MapsPlaceHolder](https://user-images.githubusercontent.com/37274588/126141213-e3d34607-1775-4d53-8b34-fbeb988873bd.JPG)
 
 ---
