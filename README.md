@@ -1,6 +1,6 @@
 # Starbucks Clone
 
-- **Starbucks ☕️ Web Application Clone using React, React-Router, Firebase, Redux, Material-UI, React-hook-forms (for simple form validation), react-awesome-reveal, react-google-maps and the Framer Motion API.*
+- *Starbucks ☕️ Web Application Clone using React, React-Router, Firebase, Redux, Material-UI, React-hook-forms (for simple form validation), react-awesome-reveal, react-google-maps and the Framer Motion API.*
 
 ---
 
