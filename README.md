@@ -44,19 +44,17 @@ Demo: [Link](https://starbucks-clone-cd780.web.app/)
 
 - Home Page
 ![HomePage](https://user-images.githubusercontent.com/37274588/126140352-2b00b0a7-90c6-4eef-b831-3bfad187be77.JPG)
-
 ![HomePage1](https://user-images.githubusercontent.com/37274588/126140364-3a098457-890e-41e5-8c85-dedea90e43eb.JPG)
-
 ![HomePage2](https://user-images.githubusercontent.com/37274588/126140375-bb411e8e-4458-4a39-8b68-5d6a5ed5f111.JPG)
-
 ![HomePage3](https://user-images.githubusercontent.com/37274588/126140383-8dbbc073-c7b4-4ec0-9938-0dca9de5db40.JPG)
-
 ![HomePage4](https://user-images.githubusercontent.com/37274588/126140397-092a5311-06ab-4117-ae0f-7ed2dad63841.JPG)
 
 - Sign Up Page
+
 ![SignUp](https://user-images.githubusercontent.com/37274588/126140681-a7654b10-ba35-4e7e-9f18-e8a6e588dd68.JPG)
 
 - Login Page
+
 ![Login](https://user-images.githubusercontent.com/37274588/126140706-e8f4bf1a-65e3-40b1-8b4c-e6e29f5b555e.JPG)
 
 - Menu Page
